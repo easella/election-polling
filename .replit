@@ -1,0 +1,2 @@
+language="php web server"
+run="node index.php"
